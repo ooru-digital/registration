@@ -478,11 +478,8 @@ public class CredentialRequestorStage extends MosipVerticleAPIManager {
 		Map<String, Object> credentialData = new HashMap<>();
 		credentialData.put("email", "john.williams@example.com");
 		credentialData.put("addressLine1", "Rua da Liberdade");
-		credentialData.put("addressLine2", "Bairro");
-		credentialData.put("addressLine3", "Bairro");
-		credentialData.put("addressLine4", "Soa Tome");
-		credentialData.put("surnameLine1", "COSTA");
-		credentialData.put("surnameLine2", "WILLIAMS");
+		credentialData.put("addressLine2", "Soa Tome");
+		credentialData.put("surnameLine1", "WILLIAMS");
 		credentialData.put("firstName", "JOHN");
 		credentialData.put("sex", "M");
 		credentialData.put("height", "1,62");
