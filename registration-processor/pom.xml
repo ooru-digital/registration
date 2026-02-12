@@ -144,6 +144,7 @@
 		<kernel.idvalidator.vid.version>1.2.0.1</kernel.idvalidator.vid.version>
 		<object.store.khazana.version>1.2.0.1</object.store.khazana.version>
 		<kernel.biometrics.api.version>1.2.0.1</kernel.biometrics.api.version>
+		<biometrics.util.version>1.2.0.1</biometrics.util.version>
 		<kernel-keymanager-service.version>1.2.0.1</kernel-keymanager-service.version>
 		 <kernel.websubclient.version>1.2.0.1</kernel.websubclient.version>
 		 <kernel-biosdk-provider.version>1.2.0.1</kernel-biosdk-provider.version>

@@ -103,6 +103,11 @@
 			<artifactId>registration-processor-info-storage-service</artifactId>
 			<version>${packet.info.storage.service.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>io.mosip.biometric.util</groupId>
+			<artifactId>biometrics-util</artifactId>
+			<version>${biometrics.util.version}</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
